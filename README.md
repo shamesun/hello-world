@@ -1,2 +1,2 @@
 # hello-world
-hi, i am making some changes to check commmit.
+hi, i am making some changes to check commmit..
